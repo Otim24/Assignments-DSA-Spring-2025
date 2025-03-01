@@ -1,3 +1,4 @@
+//Program to Calculate the Average Marks for a Student
 #include <stdio.h>
 #include <stdlib.h>
 
